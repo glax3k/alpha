@@ -7,7 +7,7 @@ const ffmpeg = require('fluent-ffmpeg');
 const {execFile} = require('child_process');
 const cwebp = require('cwebp-bin');
 let wk = Config.WORKTYPE == 'public' ? false : true
-const AlphaXnpm = require('alpha-wabot-npm')
+const AlphaXnpm = require('gzk4-npm')
 const request = require('request');
 
 const Language = require('../language');
