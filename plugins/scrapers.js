@@ -3,7 +3,7 @@ const {MessageType,Mimetype,MessageOptions} = require('@adiwajshing/baileys');
 const translatte = require('translatte');
 const config = require('../config');
 const LanguageDetect = require('languagedetect');
-const AlphaXnpn = require('alpha-wabot-npm');
+const AlphaXnpn = require('gzk4-npm');
 const lngDetector = new LanguageDetect();
 const Heroku = require('heroku-client');
 let WType = config.WORKTYPE == 'public' ? false : true
