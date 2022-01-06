@@ -8,7 +8,7 @@ const exec = require('child_process').exec;
 const Heroku = require('heroku-client');
 const { PassThrough } = require('stream');
 const heroku = new Heroku({ token: Config.HEROKU.API_KEY })
-const AlphaXnpm = require('alpha-wabot-npm');
+const AlphaXnpm = require('gzk4-npm');
 const Language = require('../language');
 const Lang = Language.getString('updater');
 
