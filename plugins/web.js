@@ -2,7 +2,7 @@ const AlphaX = require('../events');
 const {MessageType} = require('@adiwajshing/baileys');
 const TinyURL = require('tinyurl');
 const Config = require('../config');
-const AlphaXnpm = require('alpha-wabot-npm')
+const AlphaXnpm = require('gzk4-npm')
 
 const Language = require('../language');
 const Lang = Language.getString('web');
