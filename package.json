@@ -32,6 +32,6 @@
   },
   "homepage": "https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot#readme",
   "dependencies": {
-    "gzk3-npm": "^0.0.36"
+    "gzk2-npm": "^0.0.36"
   }
 }
